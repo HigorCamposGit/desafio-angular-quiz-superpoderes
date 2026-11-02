@@ -1,7 +1,7 @@
 # Superpower Quiz Clone (Angular)
 ##Formação Angular Developer
 
-![Badge em desenvolvimento](https://img.shields.io/badge/Status-Concluído-green)
+---
 
 ## 📌 Sobre o desafio
 Este projeto foi modificado com base no desafio de projeto "Criando um clone do BuzzFeed com Angular" do bootcamp da **DIO** (Digital Innovation One). 
