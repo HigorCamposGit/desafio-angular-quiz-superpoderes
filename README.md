@@ -43,7 +43,15 @@ Facilita a leitura e manipulação das informações em tempo de execução de f
 ---
 
 ## 👨‍💻 Se conecte Comigo !!
+**[Higor de Campos](https://github.com/HigorCamposGit)**.
 
-[<img src="https://github.com/HigorCamposGit.png" width="115" style="border-radius: 50%;"><br><sub>Higor de Campos</sub>](https://github.com/HigorCamposGit)
+
+---
+## 🤝 Créditos e Agradecimentos
+
+Este projeto foi construído tomando como referência o repositório base do bootcamp e a colaboração da comunidade da [DIO](https://www.dio.me/):
+
+* **Projeto Base / Instrutor:** [Felipe Aguiar](https://github.com/felipeAguiarCode) — [angular-buzzfeed-quizz-clone](https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone)
+* **Referência de Projeto:** [Camila Matias (Camilabsm)](https://github.com/Camilabsm)
 
 ---
