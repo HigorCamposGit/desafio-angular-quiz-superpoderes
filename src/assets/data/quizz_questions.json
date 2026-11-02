@@ -1,122 +1,71 @@
-
 {
-  "title":"Qual a sua casa em Hogwarts?",
-  "questions":[
+  "title": "Qual seria o seu superpoder secreto?",
+  "questions": [
     {
-      "id":1,
-      "question": "O que te motiva?",
-      "options":[
-        {"id": 1, "name":"Busca de expandir a mente", "alias":"C"},
-        {"id": 2, "name":"Expressar minhas próprias verdades", "alias":"S"},
-        {"id": 3, "name":"Vontade de ajudar os outros", "alias":"L"},
-        {"id": 4, "name":"Vontade de construir algo que faça sentido pra mim", "alias":"G"}
+      "id": 1,
+      "question": "O que mais te frustra em um dia difícil?",
+      "options": [
+        {"id": 1, "name": "Não ter tempo suficiente para fazer tudo o que planejei", "alias": "M"},
+        {"id": 2, "name": "Estar preso a uma rotina monótona sem poder ir aonde quero", "alias": "T"},
+        {"id": 3, "name": "Não entender o que as pessoas ao meu redor estão pensando ou sentindo", "alias": "L"},
+        {"id": 4, "name": "Sentir que meus esforços não têm impacto real nas coisas", "alias": "F"}
       ]
     },
     {
-      "id":2,
-      "question": "Por qual motivo você busca conhecimento?",
-      "options":[
-        {"id": 1, "name":"Para aprimoramento pessoal", "alias":"C"},
-        {"id": 2, "name":"Para estar pronto para situações futuras", "alias":"G"},
-        {"id": 3, "name":"Para descobrir coisas novas", "alias":"L"},
-        {"id": 4, "name":"Para conseguir informações úteis para chegar onde quero", "alias":"S"}
+      "id": 2,
+      "question": "Como você prefere resolver um problema complexo?",
+      "options": [
+        {"id": 1, "name": "Analisando os mínimos detalhes e prevendo as consequências", "alias": "M"},
+        {"id": 2, "name": "Enfrentando o obstáculo de frente com coragem e determinação", "alias": "F"},
+        {"id": 3, "name": "Entendendo a mente e a motivação de cada pessoa envolvida", "alias": "L"},
+        {"id": 4, "name": "Buscando um atalho rápido ou uma solução criativa imediata", "alias": "T"}
       ]
     },
     {
-      "id":3,
-      "question": "Qual dessas opções você mais odiaria que as pessoas te chamassem?",
-      "options":[
-        {"id": 1, "name":"Comum", "alias":"S"},
-        {"id": 2, "name":"Ignorante", "alias":"C"},
-        {"id": 3, "name":"Covarde", "alias":"G"},
-        {"id": 4, "name":"Egoísta", "alias":"L"}
+      "id": 3,
+      "question": "Qual destas palavras melhor define o seu maior objetivo?",
+      "options": [
+        {"id": 1, "name": "Controle", "alias": "M"},
+        {"id": 2, "name": "Liberdade", "alias": "T"},
+        {"id": 3, "name": "Proteção", "alias": "F"},
+        {"id": 4, "name": "Compreensão", "alias": "L"}
       ]
     },
     {
-      "id":4,
-      "question": "O que vem antes pra você?",
-      "options":[
-        {"id": 1, "name":"O que eu acredito e tenho como verdade", "alias":"G"},
-        {"id": 2, "name":"O que importa para mim", "alias":"S"},
-        {"id": 3, "name":"O que é justo", "alias":"L"},
-        {"id": 4, "name":"O que é novo e pode se tornar um aprendizado", "alias":"C"}
+      "id": 4,
+      "question": "Se você pudesse escolher um ambiente perfeito para recarregar as energias, seria:",
+      "options": [
+        {"id": 1, "name": "Um lugar tranquilo onde eu possa refletir sobre o passado e o futuro", "alias": "M"},
+        {"id": 2, "name": "Um pico alto de montanha onde me sinta livre para ir a qualquer lugar", "alias": "T"},
+        {"id": 3, "name": "Um ambiente seguro, firme e sólido onde nada possa me abalar", "alias": "F"},
+        {"id": 4, "name": "Um espaço de conversas profundas e conexões genuínas", "alias": "L"}
       ]
     },
     {
-      "id":5,
-      "question": "Escolha a poção que mais gostaria de inventar e usar.",
-      "options":[
-        {"id": 1, "name":"Poção do Amor", "alias":"L"},
-        {"id": 2, "name":"Poção de Poder", "alias":"S"},
-        {"id": 3, "name":"Poção da Fama", "alias":"G"},
-        {"id": 4, "name":"Poção da Sabedoria", "alias":"C"}
+      "id": 5,
+      "question": "Qual tipo de situação você mais instintivamente tenta evitar?",
+      "options": [
+        {"id": 1, "name": "Tomar uma decisão precipitada sem poder voltar atrás", "alias": "M"},
+        {"id": 2, "name": "Ficar preso em um lugar ou situação sem saída", "alias": "T"},
+        {"id": 3, "name": "Ser mal interpretado ou julgado injustamente", "alias": "L"},
+        {"id": 4, "name": "Ficar impotente diante de uma injustiça ou perigo", "alias": "F"}
       ]
     },
     {
-      "id":6,
-      "question": "Como quer ser recordado após a sua morte?",
-      "options":[
-        {"id": 1, "name":"Não me interessa, só me importa apenas o que as pessoas pensam de mim e dos meus feitos enquanto estou vivo", "alias":"C"},
-        {"id": 2, "name":"Quero que as pessoas contem as minhas histórias e aventuras vez ou outra", "alias":"G"},
-        {"id": 3, "name":"Quero que as pessoas sorriam quando pensam em mim e digam que sentem a minha falta", "alias":"L"},
-        {"id": 4, "name":"Quero que as pessoas admirem minhas realizações", "alias":"S"}
-      ]
-    },
-    {
-      "id":7,
-      "question": "O arbusto Flutterby produz a cada cem anos flores que mudam de cheiro a fim de atrair uma pessoa específica. Que perfume deve esta planta libertar para o atrair?",
-      "options":[
-        {"id": 1, "name":"O cheiro do mar", "alias":"G"},
-        {"id": 2, "name":"O perfume de um novo pergaminho", "alias":"C"},
-        {"id": 3, "name":"O cheiro da minha casa", "alias":"L"},
-        {"id": 4, "name":"O cheiro de uma fogueira a lenha", "alias":"S"}
-      ]
-    },
-    {
-      "id":8,
-      "question": "4 baús são colocados à sua frente. Você só tem permissão para abrir um. Qual você escolhe?",
-      "options":[
-        {"id": 1, "name":"A caixa dourada talhada, com dois pés de garras, cuja inscrição avisa que contém conhecimentos secretos e tentações irresistíveis", "alias":"S"},
-        {"id": 2, "name":"A pequena caixa de carapaça de tartaruga dourada com ouro fino que parece conter uma criatura minúscula que guincha", "alias":"L"},
-        {"id": 3, "name":"A caixa negra brilhante com fechadura e chave prateada que possui uma misteriosa inscrição em runa que identifica imediatamente como a assinatura de Merlin", "alias":"C"},
-        {"id": 4, "name":"A pequena caixa de estanho, simples e despretensiosa, na qual se pode ler uma inscrição listrada que diz 'Abro apenas para aquele que a merece'", "alias":"G"}
-      ]
-    },
-    {
-      "id":9,
-      "question": "Entra-se num jardim encantado cheio de coisas misteriosas. Qual deles prefere examinar primeiro?",
-      "options":[
-        {"id": 1, "name":"A piscina borbulhante no fundo da qual se pode ver algo luminoso que rodopia incansavelmente", "alias":"G"},
-        {"id": 2, "name":"A estátua de um velho feiticeiro com um olho estranhamente cintilante", "alias":"C"},
-        {"id": 3, "name":"Os enormes cogumelos vermelhos que parecem conversar entre si", "alias":"L"},
-        {"id": 4, "name":"A árvore com folhas prateadas carregadas de maçãs douradas", "alias":"S"}
-      ]
-    },
-    {
-      "id":10,
-      "question": "O que mais anseia aprender em Hogwarts?",
-      "options":[
-        {"id": 1, "name":"Feitiços e maldições", "alias":"S"},
-        {"id": 2, "name":"Todos os campos de magia que serei autorizado a estudar", "alias":"C"},
-        {"id": 3, "name":"Voo numa vassoura", "alias":"G"},
-        {"id": 4, "name":"Tudo o que preciso saber sobre criaturas mágicas e como domá-las", "alias":"L"}
-      ]
-    },
-    {
-      "id":11,
-      "question": "É de noite, caminha-se sozinho numa rua mal iluminada. De repente, ouve-se um ruído estranho cuja origem parece mágica. Como é que reage?",
-      "options":[
-        {"id": 1, "name":"Acena sua varinha mágica para se defender sem ficar impressionado", "alias":"G"},
-        {"id": 2, "name":"Segura sua varinha mágica com força e tenta descobrir de onde veio o ruído", "alias":"L"},
-        {"id": 3, "name":"Caminha silenciosamente no escuro e faz uma lista mental de todos os feitiços de defesa e ataque que poderia usar", "alias":"C"},
-        {"id": 4, "name":"Continua o caminho com cautela e vigilante, mantendo a mão na varinha mágica escondida debaixo do casaco", "alias":"S"}
+      "id": 6,
+      "question": "Como seus amigos mais próximos descreveriam o seu papel no grupo?",
+      "options": [
+        {"id": 1, "name": "O estrategista que sempre pensa nos próximos passos", "alias": "M"},
+        {"id": 2, "name": "O espírito livre que adora novidades e mudanças repentinas", "alias": "T"},
+        {"id": 3, "name": "O ouvinte atento que percebe quando algo está errado", "alias": "L"},
+        {"id": 4, "name": "O pilar forte que sustenta todo mundo nas horas difíceis", "alias": "F"}
       ]
     }
   ],
-  "results":{
-    "C": "Corvinal!",
-    "G": "Grifinória!",
-    "S": "Sonserina!",
-    "L": "Lufa-lufa!"
+  "results": {
+    "T": "Teletransporte! Você valoriza a liberdade acima de tudo, detesta amarras e sabe como estar no lugar certo na hora exata.",
+    "M": "Manipulação do Tempo! Você é um estrategista nato, que enxerga o panorama geral e busca sempre o controle e o timing perfeito.",
+    "L": "Leitura de Mentes! Você possui uma intuição e empatia fora do comum, captando as entrelinhas e compreendendo a essência das pessoas.",
+    "F": "Resistência Absoluta! Você é firme, resiliente e serve de escudo para o que importa, encarando qualquer impacto de frente."
   }
 }

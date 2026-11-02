@@ -20,4 +20,4 @@ describe('QuizComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-});
+}):
