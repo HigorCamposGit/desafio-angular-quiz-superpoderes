@@ -44,4 +44,4 @@ Facilita a leitura e manipulação das informações em tempo de execução de f
 
 ## 👨‍💻 Se conecte Comigo !!
 
-[<img src="https://avatars.githubusercontent.com/u/116114938?v=4" width=115><br><sub>Higor de Campos</sub>](https://github.com/HigorCamposGit)# desafio-angular-quiz-superpoderes
+[<img src="https://github.com/HigorCamposGit.png" width="115" style="border-radius: 50%;"><br><sub>Higor de Campos</sub>](https://github.com/HigorCamposGit)
